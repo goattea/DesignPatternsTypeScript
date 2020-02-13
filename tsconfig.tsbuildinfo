@@ -1,0 +1,66 @@
+{
+  "program": {
+    "fileInfos": {
+      "../../../users/rhardy/appdata/roaming/npm/node_modules/typescript/lib/lib.d.ts": {
+        "version": "49ff9798f592c8b7e628fd881401e68810c1b3589ecd7a41b32b3c287374cde0",
+        "signature": "49ff9798f592c8b7e628fd881401e68810c1b3589ecd7a41b32b3c287374cde0"
+      },
+      "../../../users/rhardy/appdata/roaming/npm/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "ff5688d6b2fcfef06842a395d7ff4d5730d45b724d4c48913118c889829052a1",
+        "signature": "ff5688d6b2fcfef06842a395d7ff4d5730d45b724d4c48913118c889829052a1"
+      },
+      "../../../users/rhardy/appdata/roaming/npm/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "2d53f3741e5a4f78a90f623387d71a1cc809bb258f10cdaec034b67cbf71022f",
+        "signature": "2d53f3741e5a4f78a90f623387d71a1cc809bb258f10cdaec034b67cbf71022f"
+      },
+      "../../../users/rhardy/appdata/roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b",
+        "signature": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b"
+      },
+      "../../../users/rhardy/appdata/roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9",
+        "signature": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9"
+      },
+      "./src/hello-world.ts": {
+        "version": "df7b5103ce2cc046a4038632f0b4e5b3231755f94e6cc0b66315f3db37a2953f",
+        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "./src/creational/factory-method/vehicle-factory.ts": {
+        "version": "ce2a085f75b7c229c8ffb39ac69ff474eae75bea863f285678935af1f4e79a2a",
+        "signature": "b657a87bbd55257df289ee02395b3eb4906993c8c4a896a8212538b7aec1308a"
+      }
+    },
+    "options": {
+      "incremental": true,
+      "target": 1,
+      "module": 1,
+      "sourceMap": true,
+      "outDir": "./built",
+      "rootDir": "./src",
+      "strict": true,
+      "noImplicitAny": true,
+      "strictNullChecks": true,
+      "strictFunctionTypes": true,
+      "noImplicitThis": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "noImplicitReturns": true,
+      "noFallthroughCasesInSwitch": true,
+      "esModuleInterop": true,
+      "watch": true,
+      "configFilePath": "./tsconfig.json"
+    },
+    "referencedMap": {},
+    "exportedModulesMap": {},
+    "semanticDiagnosticsPerFile": [
+      "../../../users/rhardy/appdata/roaming/npm/node_modules/typescript/lib/lib.d.ts",
+      "../../../users/rhardy/appdata/roaming/npm/node_modules/typescript/lib/lib.es5.d.ts",
+      "../../../users/rhardy/appdata/roaming/npm/node_modules/typescript/lib/lib.dom.d.ts",
+      "../../../users/rhardy/appdata/roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "../../../users/rhardy/appdata/roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "./src/hello-world.ts",
+      "./src/creational/factory-method/vehicle-factory.ts"
+    ]
+  },
+  "version": "3.6.4"
+}
