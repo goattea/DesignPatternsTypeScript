@@ -1,29 +1,69 @@
 {
   "program": {
     "fileInfos": {
-      "../../../users/rhardy/appdata/roaming/npm/node_modules/typescript/lib/lib.d.ts": {
+      "../../users/rober/appdata/roaming/npm/node_modules/typescript/lib/lib.d.ts": {
         "version": "49ff9798f592c8b7e628fd881401e68810c1b3589ecd7a41b32b3c287374cde0",
         "signature": "49ff9798f592c8b7e628fd881401e68810c1b3589ecd7a41b32b3c287374cde0"
       },
-      "../../../users/rhardy/appdata/roaming/npm/node_modules/typescript/lib/lib.es5.d.ts": {
-        "version": "ff5688d6b2fcfef06842a395d7ff4d5730d45b724d4c48913118c889829052a1",
-        "signature": "ff5688d6b2fcfef06842a395d7ff4d5730d45b724d4c48913118c889829052a1"
+      "../../users/rober/appdata/roaming/npm/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "fc43680ad3a1a4ec8c7b8d908af1ec9ddff87845346de5f02c735c9171fa98ea",
+        "signature": "fc43680ad3a1a4ec8c7b8d908af1ec9ddff87845346de5f02c735c9171fa98ea"
       },
-      "../../../users/rhardy/appdata/roaming/npm/node_modules/typescript/lib/lib.dom.d.ts": {
-        "version": "2d53f3741e5a4f78a90f623387d71a1cc809bb258f10cdaec034b67cbf71022f",
-        "signature": "2d53f3741e5a4f78a90f623387d71a1cc809bb258f10cdaec034b67cbf71022f"
+      "../../users/rober/appdata/roaming/npm/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "d93de5e8a7275cb9d47481410e13b3b1debb997e216490954b5d106e37e086de",
+        "signature": "d93de5e8a7275cb9d47481410e13b3b1debb997e216490954b5d106e37e086de"
       },
-      "../../../users/rhardy/appdata/roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+      "../../users/rober/appdata/roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
         "version": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b",
         "signature": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b"
       },
-      "../../../users/rhardy/appdata/roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts": {
+      "../../users/rober/appdata/roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts": {
         "version": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9",
         "signature": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9"
       },
       "./src/hello-world.ts": {
         "version": "df7b5103ce2cc046a4038632f0b4e5b3231755f94e6cc0b66315f3db37a2953f",
         "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "./src/behavioral/command/device-commands/icommand.ts": {
+        "version": "b080913beb9224c71e007e1f6ff7863f60ba1a58855d2c386069f46c43db9d0d",
+        "signature": "2a1f48e5ea724160f181fcc2ca343123681dacab7366303c38fc28da2a2f5a11"
+      },
+      "./src/behavioral/command/device-commands/null-command.ts": {
+        "version": "84cf26f1acb591eebb3e2226bdd9c3d19096a5e4b81fe3b174f8a8846dfc700c",
+        "signature": "c9d7fc11d7c166ed41ecbe8cd2253971e0379d0c8185a70ecc214b9b6d936d99"
+      },
+      "./src/behavioral/command/command-controller.ts": {
+        "version": "839be562c43e4007e6d1a390672b2d76cdce8244573424e0545e6a2d75267fde",
+        "signature": "741387ef94c298a5e08ab1070627bc2ca2e4b144e8e7ce33082b0b70e0a2938a"
+      },
+      "./src/behavioral/command/devices/light-bulb.ts": {
+        "version": "5012048fdcb65bae8b3f83b9e51dcfbbe9b8141c9d3a2f3223333e2dc0de2086",
+        "signature": "8650612f1a30018c7c618660db76f64ec2df54efce3e0cdb6494b516702b7b3c"
+      },
+      "./src/behavioral/command/devices/ceiling-fan.ts": {
+        "version": "349371e13f894bd18d9506a96de0df8330522af73ff2fe427c12d1591295daa6",
+        "signature": "2ad82f9cf951b92d76dd1766b1c29b6c3720cf757caa86068d3f576091cb7a9f"
+      },
+      "./src/behavioral/command/devices/garage-door.ts": {
+        "version": "be75eba22feeb792db9531ed171b56d75508475bfb5ad6a381c378d8eee6d68e",
+        "signature": "cd5a5bd9c56b5ad51070d507f2849a920b20d979214915debba721fd4194a903"
+      },
+      "./src/behavioral/command/device-commands/light-bulb.ts": {
+        "version": "f1ce4af1fbd96944ac87aeef7ac61c256741ea76b65b7e731369423b10e0efc9",
+        "signature": "adb84ab89275ea616ea0d08b9f73c0beae5f7ca81e923d05bc2364100141419f"
+      },
+      "./src/behavioral/command/device-commands/ceiling-fan.ts": {
+        "version": "49862b8c51a1652b0b692856c5113d71341aeff4e9841ac8d9511538c18d276d",
+        "signature": "90f232f0db62ef55a4dd8e0fe4a95d5790938ab63e0d140d255828b797b9d09b"
+      },
+      "./src/behavioral/command/device-commands/garage-door.ts": {
+        "version": "03d2bb93a69b0aeeee9a72e45503f64c9ec52a84d3a6587ae10e0015caa8c690",
+        "signature": "8b18998aca79ff25a74d0518f0c4a28be7438a764d07bb97148c4bec68d7deb8"
+      },
+      "./src/behavioral/command/main.ts": {
+        "version": "c4e8cad2f926e9f97f63a054ae4581c22986cae0bcd59cb8f6a1905f6c5e6abd",
+        "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6"
       },
       "./src/creational/factory-method/vehicle-factory.ts": {
         "version": "ce2a085f75b7c229c8ffb39ac69ff474eae75bea863f285678935af1f4e79a2a",
@@ -47,20 +87,77 @@
       "noImplicitReturns": true,
       "noFallthroughCasesInSwitch": true,
       "esModuleInterop": true,
-      "watch": true,
       "configFilePath": "./tsconfig.json"
     },
-    "referencedMap": {},
-    "exportedModulesMap": {},
+    "referencedMap": {
+      "./src/behavioral/command/device-commands/null-command.ts": [
+        "./src/behavioral/command/device-commands/icommand.ts"
+      ],
+      "./src/behavioral/command/command-controller.ts": [
+        "./src/behavioral/command/device-commands/icommand.ts",
+        "./src/behavioral/command/device-commands/null-command.ts"
+      ],
+      "./src/behavioral/command/device-commands/light-bulb.ts": [
+        "./src/behavioral/command/device-commands/icommand.ts",
+        "./src/behavioral/command/devices/light-bulb.ts"
+      ],
+      "./src/behavioral/command/device-commands/ceiling-fan.ts": [
+        "./src/behavioral/command/device-commands/icommand.ts",
+        "./src/behavioral/command/devices/ceiling-fan.ts"
+      ],
+      "./src/behavioral/command/device-commands/garage-door.ts": [
+        "./src/behavioral/command/device-commands/icommand.ts",
+        "./src/behavioral/command/devices/garage-door.ts"
+      ],
+      "./src/behavioral/command/main.ts": [
+        "./src/behavioral/command/command-controller.ts",
+        "./src/behavioral/command/devices/light-bulb.ts",
+        "./src/behavioral/command/devices/ceiling-fan.ts",
+        "./src/behavioral/command/devices/garage-door.ts",
+        "./src/behavioral/command/device-commands/light-bulb.ts",
+        "./src/behavioral/command/device-commands/ceiling-fan.ts",
+        "./src/behavioral/command/device-commands/garage-door.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "./src/behavioral/command/device-commands/null-command.ts": [
+        "./src/behavioral/command/device-commands/icommand.ts"
+      ],
+      "./src/behavioral/command/command-controller.ts": [
+        "./src/behavioral/command/device-commands/icommand.ts"
+      ],
+      "./src/behavioral/command/device-commands/light-bulb.ts": [
+        "./src/behavioral/command/devices/light-bulb.ts",
+        "./src/behavioral/command/device-commands/icommand.ts"
+      ],
+      "./src/behavioral/command/device-commands/ceiling-fan.ts": [
+        "./src/behavioral/command/devices/ceiling-fan.ts",
+        "./src/behavioral/command/device-commands/icommand.ts"
+      ],
+      "./src/behavioral/command/device-commands/garage-door.ts": [
+        "./src/behavioral/command/devices/garage-door.ts",
+        "./src/behavioral/command/device-commands/icommand.ts"
+      ]
+    },
     "semanticDiagnosticsPerFile": [
-      "../../../users/rhardy/appdata/roaming/npm/node_modules/typescript/lib/lib.d.ts",
-      "../../../users/rhardy/appdata/roaming/npm/node_modules/typescript/lib/lib.es5.d.ts",
-      "../../../users/rhardy/appdata/roaming/npm/node_modules/typescript/lib/lib.dom.d.ts",
-      "../../../users/rhardy/appdata/roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
-      "../../../users/rhardy/appdata/roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "../../users/rober/appdata/roaming/npm/node_modules/typescript/lib/lib.d.ts",
+      "../../users/rober/appdata/roaming/npm/node_modules/typescript/lib/lib.es5.d.ts",
+      "../../users/rober/appdata/roaming/npm/node_modules/typescript/lib/lib.dom.d.ts",
+      "../../users/rober/appdata/roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "../../users/rober/appdata/roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts",
       "./src/hello-world.ts",
-      "./src/creational/factory-method/vehicle-factory.ts"
+      "./src/behavioral/command/device-commands/icommand.ts",
+      "./src/behavioral/command/device-commands/null-command.ts",
+      "./src/behavioral/command/command-controller.ts",
+      "./src/behavioral/command/devices/light-bulb.ts",
+      "./src/behavioral/command/device-commands/light-bulb.ts",
+      "./src/behavioral/command/device-commands/ceiling-fan.ts",
+      "./src/behavioral/command/device-commands/garage-door.ts",
+      "./src/behavioral/command/main.ts",
+      "./src/creational/factory-method/vehicle-factory.ts",
+      "./src/behavioral/command/devices/ceiling-fan.ts",
+      "./src/behavioral/command/devices/garage-door.ts"
     ]
   },
-  "version": "3.6.4"
+  "version": "3.7.5"
 }
